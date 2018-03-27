@@ -1,0 +1,50 @@
+
+Vas a empezar a desarrollar aplicaciones móviles, es un hecho ¡bien por tí! En esta ocasión te enseñaremos de forma breve los pasos que debes seguir para que tengas menos 
+dolores de cabeza contigo mismo, con tu equipo y con tus clientes.
+
+--Toma de requerimientos:
+Supongamos que llegó el primer cliente. Es hora de aplicar tus conocimientos ofreciendo una solución digital que va a mejorar la vida de muchas personas. 
+Tu cliente tiene un problema y está seguro que va a solucionarlo con una app.
+
+Cuando te reúnas con tu cliente asegúrate de tomar nota de todo y si te es posible graba la conversación. Esta reunión es de las más importantes que vas a tener porque 
+es el momento en el que el cliente expone abiertamente sus ideas, sus inquietudes, sus necesidades y sus objetivos. Tú tendrás que hacer todas las preguntas para 
+obtener el conocimiento necesario para desarrollar un producto que se ajuste a las necesidades de cliente y usuarios.
+
+--Escribe las ideas principales: escucha las ideas y toma notas. Delimita y selecciona las ideas con las que puedes generar un MVP.
+
+--Maquetea: a partir de las soluciones empieza a tener los primeros bocetos de cómo quieres que se ejecute algo.
+
+--Decide la arquitectura del App: define las tecnologías con las que vas a trabajar, para lograr hacer esto vas a necesitar definir la dimensión del proyecto. 
+Define el tamaño de tu equipo y sus roles, esto te lleva a definir un presupuesto con el que basarás todos los pasos a tomar.
+
+Cuando el app está definida
+Ya tienes una idea en tu cabeza de cómo va a ser tu producto, ahora necesitas empezar desde ceros y definir
+
+--Wireframes: necesitas reunirte con tu equipo de UX y diseñadores, tienes que definir un flujo coherente dentro de la aplicación. Proyectar en donde deben ir los botones y 
+diferentes opciones de navegación.
+
+Tienes que pasarlos a lo digital y definir si tu cliente lo aprueba o no. Puedes usar Sketch.
+
+--Cronograma de etapas del proyecto: define las fases en las que vas a desarrollar la aplicación. Entrega un cronograma de procesos y de flujo. Es ideal dividirlo en 3 fases 
+de evaluación de ideas, Desarrollo y evaluación de planes y presentación final.
+
+--Crea un prototipo: te sirve para ver y definir cómo se va a ver tu app. Es solo para verlo de forma superficial. No tienes nada funcional ni tienes nada que haya sido codificado.
+
+--Ejecución del prototipo: le presión se va en mayor parte hacia el equipo de desarrollo. Es importante que estés muy organizado. Nuestro consejo es que te organices modularmente. 
+Define bloques que puedas ir trabajando para liberar entregables. Genera un cronograma de actividades y delega responsabilidades si te es posible. Así vas a poder monitorear 
+con mayor libertad y efectividad.
+
+--Interfaz Gráfica: en este punto tu cliente empieza a ver que sus ideas están siendo plasmadas tal cual como lo imaginó o mejor. Cuando entregas esta fase del proyecto te 
+liberas de una carga grande, a muchos clientes les preocupa en primera medida cómo se va a ver su app aunque lo más importante para ti debe ser TODO
+
+--Programación: esta parte es el alma del app, gran parte de los esfuerzos y del tiempo se centra en la buena programación, esta es el alma del app, es la que define el 
+funcionamiento de todas las funciones y comandos.
+
+--Testing: Ya está todo terminado y listo para ser entregado, ahora tienes que hacer pruebas de absolutamente todo para encontrar bugs y errores que se te pasaron en cada proceso, 
+una vez solucionados estás listo para entregar y lanzar el app.
+
+--Entrega y lanzamiento: Estás a punto de entregar, tu cliente lo aprueba y todo es celebración, es hora de que subas tu app a Google Play y a App Store. Para que tengas un 
+conocimiento mucho más extenso de todo este proceso te recomendamos que hagas nuestro curso de Marketing Móvil.
+
+No olvides que un app nunca deja de desarrollarse, entregaste la primera parte pero recuerda que vana surjir modificaciones y vas a tener que hacer actualizaciones, 
+si no tienes esto presente tu app va a quedar en el olvido en poco tiempo, así que preparate para estar siempre a la vanguardia y para responder a las necesidades de los usuarios.
