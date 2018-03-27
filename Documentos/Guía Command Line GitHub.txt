@@ -1,0 +1,31 @@
+
+----------------CONECTARSE A UN REPOSITORIO------------------------
+// Clonamos el repositorio, utilizando el link entregado en Github.com
+-- git clone [Repositorio (.git)]
+
+
+// Seteamos el origen remoto (Origin)
+-- git remote add origin(podemos asignar este nombre) [Repositorio(.git)]
+
+
+// Verificamos el origen 
+-- git remote -v
+
+
+// En caso de necesitar remover el origen remoto ejecutamos
+-- git remote remove origin(nombre asignado)
+
+
+------------------SUBIR ARCHIVO-------------------------
+
+// Añado el archivo a la pila que posteriormente cargaré al repositorio 
+-- git add [ArchivoAgregar(.txt/jar/java/kt/php/etc)]
+
+
+// Luego de agregar los archivos a cargar al repositorio (o en su defecto los que han sido modificados), ejecuto el commit y asigno un comentario
+-- git commit -m "COMENTARIO DEL COMMIT"
+
+
+// Posterior al commit empujo los archivos (PUSH) al repositorio para realizar finalmente los cambios (-f: forzado)
+-- git push -f [origin(o nombre asignado)] [rama (por defecto master)]
+-- Ejemplo: git push -f origin master

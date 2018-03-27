@@ -47,4 +47,4 @@ una vez solucionados estás listo para entregar y lanzar el app.
 conocimiento mucho más extenso de todo este proceso te recomendamos que hagas nuestro curso de Marketing Móvil.
 
 No olvides que un app nunca deja de desarrollarse, entregaste la primera parte pero recuerda que vana surjir modificaciones y vas a tener que hacer actualizaciones, 
-si no tienes esto presente tu app va a quedar en el olvido en poco tiempo, así que preparate para estar siempre a la vanguardia y para responder a las necesidades de los usuarios.
+si no tienes esto presente tu app va a quedar en el olvido en poco tiempo, así que preparate para estar siempre a la vanguardia y para responder a las necesidades de los usuarios.  // Extraído de Platzi.com
